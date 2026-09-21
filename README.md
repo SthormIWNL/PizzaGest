@@ -19,3 +19,5 @@ O **PizzaGest** é uma aplicação desktop desenvolvida para otimizar a rotina o
 ## Funcionalidades do Sistema (Requisitos)
 - **RF01:** Tela de autenticação de acesso (Login) para operadores e gerentes.
 - **RF02:** Registro de movimentações financeiras no caixa (Entradas e Saídas) com data automática.
+- **RF03:** Persistência de dados automatizada utilizando conexão JDBC com o banco de dados MySQL.
+- **RF04:** Interface gráfica intuitiva baseada em desktop (Java Swing) focada na agilidade operacional.
